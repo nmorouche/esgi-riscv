@@ -21,9 +21,9 @@
 # Bonus: Afficher maintenant un nombre, vous aurrez besoin de la documentation.
 
 # Réponses:
-# 1- Son adresse de base: 0x00400000 | Son adresse de fin: 0x00400019 ?
+# 1- Son adresse de base: 0x00100000 | Son adresse de fin: 0x00100014 ?
 # 2- Dans le segment data.
-# 3- Aucune idée`y'a 50 000 values différents (+0 +4 +8 etc)
+# 3- La chaîne de caractères
 
 #Bonus:
 li a0, 64
