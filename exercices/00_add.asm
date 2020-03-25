@@ -8,7 +8,6 @@
 # dans t0 à la fin du programme.
 
 mon_code: # <- Label
-li   t0, 32
-addi t0, t0, 0
+li t0, 64
 
 # Bonus: avoir 64 dans un registre en une seule instruction
